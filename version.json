@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "zip_url": "https://github.com/kimyoungwoo1/Zscaler-api-app/releases/download/v1.0.1/app_bundle.zip",
+  "sha256": "<app_bundle.zip의 SHA256>",
+  "restart_args": ["dist\\main\\main.exe"]
+}
